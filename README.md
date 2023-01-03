@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/vivekweb2013/vivekweb2013/main/developer.gif)
+![align="left"](https://raw.githubusercontent.com/vivekweb2013/vivekweb2013/main/developer.gif)
